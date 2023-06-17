@@ -19,6 +19,7 @@ html {
     background-position: center;
     width: 100%;
     height: 500px;
+	padding-top: 96px;
 }
 
 .site-largura {
